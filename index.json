@@ -1,0 +1,11 @@
+{
+  "org": "klen",
+  "repo": "pylama",
+  "versions": [
+    {
+      "commit": "53ad214de0aa9534e59bcd5f97d9d723d16cfdb8",
+      "tag": "8.4.1",
+      "parsed_at": "2026-10-19T12:25:10.754288+00:00"
+    }
+  ]
+}
