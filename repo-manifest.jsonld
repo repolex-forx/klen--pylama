@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/klen/pylama/commit/53ad214de0aa9534e59bcd5f97d9d723d16cfdb8",
       "git:hexsha": "53ad214de0aa9534e59bcd5f97d9d723d16cfdb8",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "8.4.1"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "8.4.1",
+      "repolex:parsedAt": "2026-10-19T12:25:10.753312+00:00"
     },
     {
       "@id": "https://repolex.ai/r/klen/pylama/commit/7157f6a7310c74f70a5572d41cd6120ea65ad0cf",
